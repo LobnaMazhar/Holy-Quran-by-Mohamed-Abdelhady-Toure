@@ -1,15 +1,15 @@
 # Description: Download all the mp3 files of the Quran from the website https://www.tvquran.com
 
-# Install the required packages (IMPORTANT Before running)
-#python3 -m pip install requests
-#python3 -m pip install beautifulsoup4
-#python3 -m pip install tqdm
+# Install the required packages using the terminal (IMPORTANT Before running)
+# python3 -m pip install requests
+# python3 -m pip install beautifulsoup4
+# python3 -m pip install tqdm
 
-#How to use:
-#1- Open the terminal
-#2- Go to the directory where the file is located
-#3- Run the following command: python3 download-quran.py
-#4- Wait for the download to complete
+# How to use:
+# 1- Open the terminal
+# 2- Go to the directory where the file is located
+# 3- Run the following command: python3 download-quran.py
+# 4- Wait for the download to complete
 
 
 
